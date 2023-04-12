@@ -24,9 +24,8 @@ Scramble Game - Indian Cities
 <li><img src="https://user-images.githubusercontent.com/130553961/231459233-b49f4f91-8b30-490d-9d3e-1262faef8f40.png" alt="Start Image" height="350" width="500" /></li>
 <li><img src="https://user-images.githubusercontent.com/130553961/231462429-b0989364-d45e-479a-9537-65a7c8abc77d.png" alt="Ask Question Screen Image" height="350" width="500"/></li>
 </ol>
-Contributing
+<h2>Contributing</h2>
 If you would like to contribute to this project, feel free to create a pull request. All contributions are welcome!
-
-Credits
+<h2>Credits</h2>
 This game was created by Vijay Kumar Shukla <a href="https://in.linkedin.com/in/vijay-kr-shukla-4961575a">(LinkedIn Profile)</a> as a personal project.
 
