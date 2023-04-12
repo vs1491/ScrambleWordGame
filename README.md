@@ -13,7 +13,7 @@ Scramble Game is a word game in which the name of Indian cities are spelled wron
 <li>You can also use the "Reload Word" button to skip to the next city.</li>
 </ol>
 <h1>Technologies Used</h1>
-This game is built using HTML, CSS, and JavaScript and json file where cities name store.
+This game is built using HTML, CSS, and JavaScript and json file where is cities name store.
 
 <h1>Getting Started</h1>
 To play the game, simply open the index.html file in your web browser. You can also host the game on a web server to share it with others.
@@ -21,8 +21,8 @@ To play the game, simply open the index.html file in your web browser. You can a
 <h1>Game Images</h1>
 Scramble Game - Indian Cities
 <ol>
-<li><img src="https://user-images.githubusercontent.com/130553961/231459233-b49f4f91-8b30-490d-9d3e-1262faef8f40.png" alt="Start Image" height="400" width="500" /></li>
-<li><img src="" alt="" /></li>
+<li><img src="https://user-images.githubusercontent.com/130553961/231459233-b49f4f91-8b30-490d-9d3e-1262faef8f40.png" alt="Start Image" height="350" width="500" /></li>
+<li><img src="https://user-images.githubusercontent.com/130553961/231462429-b0989364-d45e-479a-9537-65a7c8abc77d.png" alt="Ask Question Screen Image" height="350" width="500"/></li>
 </ol>
 Contributing
 If you would like to contribute to this project, feel free to create a pull request. All contributions are welcome!
