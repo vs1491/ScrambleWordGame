@@ -1,4 +1,4 @@
-#ScrambleWordGame
+<h1 style="Color:red;">Scramble Words Game</h1>
 
 
 Scramble Game is a word game in which the name of Indian cities are spelled wrong and the player has to guess and write the correct spelling of the city. This game is a fun way to learn about different cities in India and also improve your spelling skills.
