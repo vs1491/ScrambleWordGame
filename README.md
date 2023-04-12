@@ -29,3 +29,4 @@ If you would like to contribute to this project, feel free to create a pull requ
 
 Credits
 This game was created by [Your Name] as a personal project.
+![StartImage](https://user-images.githubusercontent.com/130553961/231459233-b49f4f91-8b30-490d-9d3e-1262faef8f40.png)
