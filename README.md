@@ -28,5 +28,5 @@ Contributing
 If you would like to contribute to this project, feel free to create a pull request. All contributions are welcome!
 
 Credits
-This game was created by [Your Name] as a personal project.
+This game was created by Vijay Kumar Shukla <a href="https://in.linkedin.com/in/vijay-kr-shukla-4961575a">(LinkedIn Profile)</a> as a personal project.
 
